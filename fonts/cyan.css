@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "cyan"; /* Project id  */
+  src: url('cyan.ttf?t=1736016521481') format('truetype');
+}
+
+.iconfont {
+  font-family: "cyan" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cyan-Vectorizer-io-yumaotubiao:before {
+  content: "\e602";
+}
+
