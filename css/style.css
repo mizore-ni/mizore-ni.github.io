@@ -1,12 +1,12 @@
 :root {
-  --red-0: #f00;
-  --red-1: #ff5252;
-  --red-2: #ff7c7c;
-  --red-3: #ffafaf;
-  --red-4: #ffd0d0;
-  --red-5: #ffe4e4;
-  --red-5-5: #ffecec;
-  --red-6: #fff3f3;
+  --red-0: #320679;
+  --red-1: #00bfff;
+  --red-2: #00bfff;
+  --red-3: #33c7f8;
+  --red-4: #00bfff;
+  --red-5: #fff;
+  --red-5-5: #00bfff;
+  --red-6: #e1e8db;
   --grey-9: #999;
   --grey-7: #777;
   --color-archive-year: #000;
@@ -14,18 +14,18 @@
   --color-border: var(--red-3);
   --color-link: var(--red-1);
   --color-background: #eee;
-  --color-code-background: #f5f5f5;
-  --color-header-background: rgba(255,255,255,0.9);
+  --color-code-background: #fdfdfd;
+  --color-header-background: rgba(162,170,196,0.5);
   --color-footer-background: #fff;
   --color-mobile-nav-background: #fff;
   --color-wrap: #fff;
   --color-sticky: #fff;
   --color-h2-border: #eee;
   --color-meta-shadow: var(--red-6);
-  --color-hover-shadow: rgba(150,150,150,0.1);
+  --color-hover-shadow: #89afe8;
   --color-h2-after: var(--red-1);
-  --color-red-6-shadow: rgba(255,78,78,0.6);
-  --color-red-3-shadow: rgba(255,78,78,0.3);
+  --color-red-6-shadow: rgba(39,142,216,0.8);
+  --color-red-3-shadow: #bed3de;
   --highlight-nav: #e6e6e6;
   --highlight-scrollbar: #d6d6d6;
   --highlight-background: #f7f7f7;
@@ -49,10 +49,10 @@
 }
 [data-theme="dark"]:root {
   --red-0: var(--red-1);
-  --red-4: rgba(255,208,208,0.5);
-  --red-5: rgba(255,228,228,0.2);
-  --red-5-5: rgba(255,236,236,0.1);
-  --red-6: rgba(255,243,243,0.2);
+  --red-4: #41a0e9;
+  --red-5: #1a8afa;
+  --red-5-5: rgba(76,144,223,0.1);
+  --red-6: rgba(76,124,219,0.2);
   --color-archive-year: #999;
   --color-default: #999;
   --color-border: var(--red-5);
